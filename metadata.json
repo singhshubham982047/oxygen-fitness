@@ -2,5 +2,7 @@
   "name": "FitFlow Fitness Club",
   "description": "Modern fitness club website with premium training programs, membership plans, and verified online registration system powered by MongoDB.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
